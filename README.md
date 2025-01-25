@@ -1,6 +1,6 @@
 # Student Management System
 
-This is a Spring Boot application that provides a basic student management system. It supports operations to create, read, update, and delete student records. The backend uses PostgreSQL as the database.
+This is a Spring Boot application that provides a basic student management system. It supports operations to create, read, update, and delete student records. The backend uses PostgreSQL as the database. 
 
 ## Features
 - Add new students to the database.
@@ -134,4 +134,4 @@ git push -u origin main
 Feel free to submit pull requests or open issues for improvements and bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License and FlexiSaf See the LICENSE file for details.
